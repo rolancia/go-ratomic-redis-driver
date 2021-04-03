@@ -6,6 +6,10 @@ github.com/rolancia/go-ratomic v0.0.0-20210403125939-a7ed06a5bc3b h1:68yoxoQi213
 github.com/rolancia/go-ratomic v0.0.0-20210403125939-a7ed06a5bc3b/go.mod h1:sNbFbVVSuYE2I45sQpaju2AL2PiYWpIl+a5IxFeB4jk=
 github.com/rolancia/go-ratomic v0.0.0-20210403133017-f5df1af232e1 h1:Yaw52EeiE5FfM08twuzHwEt4yJxEGxANcDJ5tTVjSFo=
 github.com/rolancia/go-ratomic v0.0.0-20210403133017-f5df1af232e1/go.mod h1:sNbFbVVSuYE2I45sQpaju2AL2PiYWpIl+a5IxFeB4jk=
+github.com/rolancia/go-ratomic v0.0.0-20210403192543-864451d42d17 h1:Trao/ajMOSZroqS8nnO98W96E6eArk0mi7424dyk0bY=
+github.com/rolancia/go-ratomic v0.0.0-20210403192543-864451d42d17/go.mod h1:sNbFbVVSuYE2I45sQpaju2AL2PiYWpIl+a5IxFeB4jk=
+github.com/rolancia/go-ratomic v0.0.0-20210403194702-bd8b164a79d1 h1:7tj/BJ4tCx2QuQ3vvVxqQfn60h6eaSQXkWhJo85WSek=
+github.com/rolancia/go-ratomic v0.0.0-20210403194702-bd8b164a79d1/go.mod h1:sNbFbVVSuYE2I45sQpaju2AL2PiYWpIl+a5IxFeB4jk=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
